@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="1920" height="1080" version="1.1" viewBox="0 0 508.00001 285.74999" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:osb="http://www.openswatchbook.org/uri/2009/osb" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:xlink="http://www.w3.org/1999/xlink">
+<defs>
+<radialGradient id="b" cx="232.53" cy="192.09" r="314.5" gradientTransform="matrix(1 0 0 .52762 30.614 10.026)" gradientUnits="userSpaceOnUse">
+<stop offset="0"/>
+<stop stop-opacity="0" offset="1"/>
+</radialGradient>
+<radialGradient id="a" cx="326.79" cy="50.732" r="402.95" gradientTransform="matrix(.94134 -.33746 .16288 .45435 -35.424 254.1)" gradientUnits="userSpaceOnUse">
+<stop offset="0"/>
+<stop stop-opacity="0" offset="1"/>
+</radialGradient>
+</defs>
+<metadata>
+<rdf:RDF>
+<cc:Work rdf:about="">
+<dc:format>image/svg+xml</dc:format>
+<dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+<dc:title/>
+</cc:Work>
+</rdf:RDF>
+</metadata>
+<rect x="-.8838" y="-2.2531" width="513.78" height="292.12" fill="#fbf"/>
+<path d="m-19.095-52.924c128.22 227.92 133.16 21.308 200.58 28.41 67.422 7.1026 71.109 221.39 203.89 166.81 132.78-54.581 185.77-169.76 188.58-110.38 2.8119 59.38 3.1856 243 3.1856 243-352.63 138.48-426.52 8.8456-627.94 1.883 7.6061-111.71 15.77-223.09 31.705-329.73z" fill="none" stroke="url(#b)" stroke-dasharray="149.3, 149.3" stroke-width="149.3" style="mix-blend-mode:overlay"/>
+<path d="m-78.044 354.91c149.12-161.91 236.61-179.43 253.6-173.85 16.996 5.5849 165.9 245.12 172.08 112.72 6.1761-132.4 90.96 31.943 193.79-14.328 102.83-46.272 56.1-421.69 56.1-421.69s-762.94 259.34-761.64 262.66c1.2958 3.3199 86.068 234.49 86.068 234.49z" fill="none" stroke="url(#a)" stroke-dasharray="100, 100" stroke-width="100" style="mix-blend-mode:overlay"/>
+</svg>
