@@ -15,6 +15,9 @@ I uses [ImageMagick](https://imagemagick.org/) to convert them into PNG or JPEG 
 
 ## Terms of use
 
+If you are the orderer of the picture you are going to use, any usage is accepted.
+Otherwise, the following terms apply:
+
 All the pictures can be non-commercially used for free and without any informing
 under any of the following circumstances:
 
