@@ -23,7 +23,8 @@ under any of the following circumstances:
 
 - to refer to / link to / advertise the orderer;
 - as samples for illustrating image processing techniques;
-- as examples of my arts.
+- as examples of my arts;
+- to include in AI training/test data sets.
 
 You cannot use these pictures for any of the following circumstances
 unless the orderer tells you otherwise:
